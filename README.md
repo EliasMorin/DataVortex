@@ -3,7 +3,7 @@
 
 DataVortex is software in NET 8.0 capable of exploiting different Telegram channels in order to manage the archives passing through them. It is able to exploit the archives according to your needs to extract the necessary information and use it
 
-![image](https://github.com/user-attachments/assets/ee888d86-efcb-4c21-852e-beef121cfb23)
+![image](https://github.com/user-attachments/assets/ba8af2fc-39df-48fa-bf98-6cb5ad21e92c)
 
 ## Server Features
 
@@ -41,7 +41,7 @@ DataVortex is software in NET 8.0 capable of exploiting different Telegram chann
 ## Screenshots
 
 - Client & Server
-![image](https://github.com/user-attachments/assets/010a4776-148e-4fda-a49c-79735e6d8c30)
+![image](https://github.com/user-attachments/assets/6e5473bd-115c-4189-9768-2e9efe52fcd6)
 ## Installation
 
 You will need to install NET 8.0 to install on your linux/windows
