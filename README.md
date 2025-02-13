@@ -41,6 +41,7 @@ DataVortex is software in NET 8.0 capable of exploiting different Telegram chann
 ## Screenshots
 
 - Client & Server
+  
 ![image](https://github.com/user-attachments/assets/6e5473bd-115c-4189-9768-2e9efe52fcd6)
 ## Installation
 
